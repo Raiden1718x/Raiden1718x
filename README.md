@@ -1,6 +1,6 @@
 # Hi, I'm Akshat Singh 👋
 
-CS & Engineering (AI & ML) undergraduate at Manipal University Jaipur (CGPA 9.3/10),
+CS & Engineering (AI & ML) undergraduate at Manipal University Jaipur (CGPA 9.1/10),
 based in Lucknow, India. I build backend systems, work with Docker and Linux, and
 enjoy anything where software meets systems.
 
