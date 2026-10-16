@@ -15,8 +15,6 @@ enjoy anything where software meets systems.
   CI/CD to Docker Hub.
 - **[dsa-implementation](https://github.com/Raiden1718x/dsa-implementation)** – Data
   structures and algorithms implemented from scratch in C.
-- **SUMO Traffic Simulation** – Adaptive traffic-light control with emergency-vehicle
-  preemption (Python, TraCI). *(link the repo once uploaded)*
 
 ## Experience
 AI Voice Bot Developer & QA Engineer Intern at Copper Digital (Dec 2024 – Jan 2025)
